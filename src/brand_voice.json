@@ -1,0 +1,9 @@
+{
+  "brand_name": "Lumos Health",
+  "tone": "Empathetic, clear, clinically accurate, authoritative yet highly approachable.",
+  "copy_restrictions": {
+    "no_jargon": true,
+    "avoid_all_caps": true,
+    "fallback_greeting": "Hello,"
+  }
+}

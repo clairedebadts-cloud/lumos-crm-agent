@@ -1,0 +1,6 @@
+{
+  "name": "Global CRM Sandbox",
+  "description": "Interactive Multi-Agent Sandbox to research, sanitize, and enforce regional regulatory compliance & accessibility for customer campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

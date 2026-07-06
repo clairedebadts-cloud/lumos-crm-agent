@@ -1,0 +1,11 @@
+{
+  "user_context": {
+    "user_id": "USR-1130",
+    "status": "premium_subscriber",
+    "masked_email": "c*******@gmail.com"
+  },
+  "campaign_payload": {
+    "campaign_type": "trial_expiration_warning",
+    "email_copy": "Hey {{user.first_name}}! Your workspace evaluation is almost up. TODO: Add billing link here."
+  }
+}
